@@ -1,0 +1,14 @@
+numpy 
+pandas
+google-cloud-storage #for cloud storage operations
+joblib #for model serialization or downloading models
+scikit-learn
+pyyaml
+matplotlib
+seaborn
+statsmodels #for statistical models and tests
+scipy #for scientific computing
+imbalanced-learn #for handling imbalanced datasets(SMOTE, etc.)
+lightgbm #for lightgbm model
+xgboost #for xgboost model
+mlflow #for experiment tracking
